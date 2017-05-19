@@ -54,7 +54,7 @@
 
     <config-file target="res/xml/config.xml" parent="/*">
       <feature name="Toast">
-        <param name="android-package" value="nl.xservices.plugins.Toast" />
+        <param name="android-package" value="cordova-plugin-x-toast" />
       </feature>
     </config-file>
 
